@@ -30,3 +30,8 @@ C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.View
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.dll
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
