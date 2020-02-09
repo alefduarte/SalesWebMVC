@@ -40,3 +40,5 @@ C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sell
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.g.cshtml.cs
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
