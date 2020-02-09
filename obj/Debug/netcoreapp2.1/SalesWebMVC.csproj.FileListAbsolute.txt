@@ -36,3 +36,4 @@ C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csprojAssemblyReference.cache
 C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
+C:\Users\alefd\source\repos\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
